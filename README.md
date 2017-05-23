@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://3.bp.blogspot.com/-XHeeUGmAxbI/WMvP7FX0IsI/AAAAAAAAEGQ/uQDh08D2QEwvWIybqTMDrZEZF-cxSHQ_QCLcB/s1600/image.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="276" src="https://3.bp.blogspot.com/-XHeeUGmAxbI/WMvP7FX0IsI/AAAAAAAAEGQ/uQDh08D2QEwvWIybqTMDrZEZF-cxSHQ_QCLcB/s640/image.png" width="640" /></a></div>
 
-You can use the [editor on GitHub](https://github.com/aarslqnn/pythonmail/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<span style="font-family: inherit; font-size: x-small;">PYTHON 3.X SERİSİ MAİL GÖNDERME NASIL YAPILIR ?</span>Çogu sitede hatayla karşılaştıgım tam bir gün aradıgım bu konuyu bugun sizler ile paylaşacagım ,tabi size biraz kısa gelebilir fakat bu kadar güncel bir kod sistemi için biraz sıkıntılı oldu neyse direk uzatmadan konuyu vereyim &nbsp;artık aramayın daha fazla :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<span style="color: red;"><u>import os</u></span>
+<span style="color: red;"><u>import smtplib</u></span>
+<span style="color: red;">BU KODLAR SAYESİNDE MAİL SÖZLÜKLERİNİ İÇERİYE AKTARMIŞ OLUYORUZ.</span>
+<span style="color: red;">
+</span>
 
-### Markdown
+<script src="https://gist.github.com/aarslqnn/866e52488453dd6d219fdc15cbcb8d93.js"></script>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+&nbsp;Şimdi tabiki çalıştıramadınız tabi hata verip duruyor &nbsp;Eee haklısınız bende o kadar bu püf noktayı aradım asıl önemli olan kodlar degil burda asıl önemli olan google'a erişim izni vermekte bitiyormuş iş. Bende bunu aradıktan sonra ögrendim sizde kodu aktivite etmek için şu adres giriniz ve eposta ayarlarınızdan ayarlayınız
+<div style="text-align: center;">
 
-```markdown
-Syntax highlighted code block
+</div>
+<div style="text-align: center;">
+<a href="https://www.google.com/settings/security/lesssecureapps" target="_blank">[<span style="background-color: #cc0000; color: white;">##eye## &nbsp;Lütfen izin vermek için buraya tıklayınız</span>]</a></div>
 
-# Header 1
-## Header 2
-### Header 3
+belki yine görüşürüz python ile :)
+<div>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aarslqnn/pythonmail/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</div>
+<ul><ul><ul></ul>
+</ul>
+</ul>
